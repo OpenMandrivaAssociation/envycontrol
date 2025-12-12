@@ -1,6 +1,6 @@
 Name:		envycontrol
 Version:	3.5.2
-Release:	1
+Release:	2
 URL:		https://github.com/bayasdev/envycontrol
 Source0:	%{url}/archive/v%{version}/%{name}-%{version}.tar.gz
 Summary:	Easy GPU switching for Nvidia Optimus laptops
